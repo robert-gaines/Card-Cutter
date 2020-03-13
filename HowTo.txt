@@ -1,0 +1,17 @@
+The PowerShell Script labeled "Card-Cutter.ps1" will automatically cut the card.
+--------------------------------------------------------------------------------
+
+Pre-requisites:
+
+1) Directory on the Desktop labeled: "<Integer Value> 'CRD' "
+2) PCMCIA Card Inserted
+
+-------------------------------------------------------------
+
+Process:
+-------
+
+1) Insert Card
+2) Navigate to Card Cutter directory on the Desktop
+3) Right Click "Card-Cutter.ps1"
+4) Select "Run with Powershell"
